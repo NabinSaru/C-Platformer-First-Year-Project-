@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491376169 source:c:\users\aarohan\documents\c projects\sdldemo\untitled1.c
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<math.h>
+	<stdlib.h>
+
